@@ -1,2 +1,2 @@
 # SpringTutorial
-spring tutorial for the beginners
+spring tutorial for beginners
