@@ -11,7 +11,7 @@ public class MainEntrance extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException {
-        PrintWriter writer=resp.getWriter();
+        PrintWriter writer = resp.getWriter();
         System.out.println("post invoked");
         writer.print("caonima");
         writer.flush();
